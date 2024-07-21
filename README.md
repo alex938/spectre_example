@@ -51,7 +51,7 @@ if len(data) > i:
 
 ```x[2]```
 
-7. Now read value of c[password] 
+7. Now read value of x[password] 
 
 ```x[password]``` operation takes 0.2ms! the value was IN the CPU cache!
 
