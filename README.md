@@ -55,4 +55,4 @@ if len(data) > i:
 
 ```x[password]``` operation takes 0.2ms! the value was IN the CPU cache!
 
-# value in memory at x[password] is x[2] is 'c'
+value in memory at x[password] is x[2]
