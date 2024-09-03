@@ -2,10 +2,10 @@
 
 
 
-# define some garbage data
+# defined data
 
 ```
-data = [1, 2, 3]
+data = ['a', 'b', 'c']
 ```
 
 # create a variable larger than the len of data, we'll use this trigger speculative execution
